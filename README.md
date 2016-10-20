@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
-Hi Hubbot,
+=============
 
+Hi Hubbot,
 My name is Micheal. I love cooking, writing, singing, making music, and Leah. 
